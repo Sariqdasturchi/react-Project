@@ -1,0 +1,41 @@
+.home_section {
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+body {
+    background-color: #ECF4FF;
+}
+
+.container {
+    width: 80%;
+    height: 416px;
+    margin: 50px;
+}
+
+.category_card {
+    width: 80%;
+    height: 400px;
+    border: 1px solid red;
+}
+
+.cards {
+    width: 100%;
+    height: auto;
+    display: flex;
+}
+
+.cards_card {
+    width: 135px;
+    height: 200px;
+    border-radius: 10px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
